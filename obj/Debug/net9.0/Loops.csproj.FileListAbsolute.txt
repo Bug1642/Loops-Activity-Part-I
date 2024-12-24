@@ -1,0 +1,14 @@
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Loops\obj\Debug\net9.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Loops\obj\Debug\net9.0\Loops.AssemblyInfoInputs.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Loops\obj\Debug\net9.0\Loops.AssemblyInfo.cs
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Loops\obj\Debug\net9.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Loops\bin\Debug\net9.0\Loops.exe
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Loops\bin\Debug\net9.0\Loops.deps.json
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Loops\bin\Debug\net9.0\Loops.runtimeconfig.json
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Loops\bin\Debug\net9.0\Loops.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Loops\bin\Debug\net9.0\Loops.pdb
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Loops\obj\Debug\net9.0\Loops.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Loops\obj\Debug\net9.0\refint\Loops.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Loops\obj\Debug\net9.0\Loops.pdb
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Loops\obj\Debug\net9.0\Loops.genruntimeconfig.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Loops\obj\Debug\net9.0\ref\Loops.dll
